@@ -4,7 +4,7 @@
 >> converted the 'Sales_volume' target column from categorical to numerical.
 >> Encoded the target column to drop dummies.
 
->> Splitted the datasets into training and test sets with 80:20 ratio respectively using sklearn model_selection train_test_split
+>> Splitted the datasets into training and test sets with 80:20 ratio respectively using sklearn model_selection train_test_split.
 >> Fitted Logistic regression model for numeric classification
 
 >>Evaluated the model with accuracy, confusion matrix and created the classification report of 'Precision', 'f-1 Score', 'support'
