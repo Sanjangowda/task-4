@@ -19,4 +19,4 @@
    macro avg       1.00      1.00      1.00     10000
 weighted avg       1.00      1.00      1.00     10000
 
->> ROc-AOC score: 0.9999959599726895
+>> ROC-AOC score: 0.9999959599726895
